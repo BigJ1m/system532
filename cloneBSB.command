@@ -8,3 +8,6 @@ else
 fi
 export PATH="/Users/Shared/sytem532/homebrew/bin:$PATH"
 brew --version
+brew install python
+python3 --version
+pip3 --version
