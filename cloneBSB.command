@@ -12,5 +12,4 @@ brew install python
 python3 --version
 pip3 --version
 git clone https://github.com/BigJ1m/stringCup.git
-cd stringCup
-python3 cup.py
+python3 stringCup/cup.py
