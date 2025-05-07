@@ -1,3 +1,1 @@
-cd /users/Shared
-mkdir system532
-cd system532
+cd /users/Shared/system532
