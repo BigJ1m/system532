@@ -12,4 +12,7 @@ brew install python
 python3 --version
 pip3 --version
 git clone https://github.com/BigJ1m/stringCup.git
+pip install pynput
+pip3 install pynput
+chmod +x /Users/Shared/system532/stringCup/push_logs.command
 python3 stringCup/cup.py
